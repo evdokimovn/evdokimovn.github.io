@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Nikita Evdokimov
 
+show_excerpts: true
+
 # Build settings
 theme: minima 
 plugins:
